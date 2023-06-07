@@ -1,5 +1,7 @@
 # Projeto de Cotação de Moedas
-Este projeto foi desenvolvido como parte da disciplina de Algoritmos e Lógica de Programação da Faculdade de Tecnologia (Fatec). Ele consiste em um aplicativo criado com o framework Kivy que exibe a cotação atual de algumas moedas, como Dólar, Euro, Bitcoin e Ethereum. O objetivo do projeto é aplicar os conceitos de programação aprendidos durante a disciplina.
+Este projeto foi desenvolvido como parte da disciplina de Algoritmos e Lógica de Programação da Faculdade de Tecnologia (Fatec). Ele consiste em um aplicativo criado com o framework Kivy que exibe a cotação atual de algumas moedas, como Dólar, Euro, Bitcoin e Ethereum. O objetivo do projeto é aplicar os conceitos de programação aprendidos durante uma vídeo aula, abaixo:
+
+[Video Aula](https://youtu.be/NkBcU8biV4s "Video Aula")
 
 # Funcionalidades
 O aplicativo possui as seguintes funcionalidades:
